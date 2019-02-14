@@ -1,7 +1,7 @@
 # 😎 inquirer-emoji
 Emoji search and select prompt for [Inquirer.js](https://www.npmjs.com/package/inquirer) based on [emoj](https://github.com/sindresorhus/emoj).
 
-[Demo](demo.gif)
+![Demo](demo.gif)
 
 ## Usage
 Register the prompt with inquirer:
