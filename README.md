@@ -1,4 +1,6 @@
 # 😎 inquirer-emoji
+[![npm version](https://badgen.net/npm/v/inquirer-emoji)](https://www.npmjs.com/package/inquirer-emoji)
+
 Emoji search and select prompt for [Inquirer.js](https://www.npmjs.com/package/inquirer) based on [emoj](https://github.com/sindresorhus/emoj).
 
 ![Demo](demo.gif)
