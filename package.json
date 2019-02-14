@@ -1,0 +1,30 @@
+{
+  "name": "inquirer-emoji",
+  "version": "1.0.0",
+  "description": "Emoji search and select prompt for inquirer.",
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "scripts": {},
+  "peerDependencies": {
+    "inquirer": "^6.2.2"
+  },
+  "dependencies": {
+    "emoj": "^2.0.0",
+    "inquirer-autocomplete-prompt": "^0.12.2"
+  },
+  "keywords": [
+    "emoji",
+    "inquirer",
+    "search",
+    "select",
+    "fuzzy"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tannerntannern/inquirer-emoji.git"
+  },
+  "author": "Tanner Nielsen <tannerntannern@gmail.com",
+  "license": "MIT"
+}
