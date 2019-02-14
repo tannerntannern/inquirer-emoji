@@ -1,6 +1,6 @@
 {
   "name": "inquirer-emoji",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Emoji search and select prompt for inquirer.",
   "files": [
     "index.js"
